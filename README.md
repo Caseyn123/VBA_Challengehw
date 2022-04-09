@@ -8,7 +8,7 @@ Steve wanted to show his parents a little more research in his data to show the 
 
 ### Analysis of VBA_Challenge2017 
 In the analysis for All Stocks 2017 we can see that the only 2 stocks that turn out positive will be ENPH and RUN, whereas the other stocks are all negative
-
+![image](https://user-images.githubusercontent.com/102333975/162550609-ac0fdbe2-2cfd-4ba4-828d-0dc67e0a432f.png)
 
 ### Analysis of VBA_Challenge2018
 I was unable to complete the script for this due to my VBA script giving me an error me and my classmates could not figure out.

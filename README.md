@@ -11,7 +11,7 @@ I was unable to complete the script for this due to my VBA script giving me an e
 
 
 ### Analysis of VBA_Challenge2018
-In the analysis for All Stocks 2017 we can see that the only 2 stocks that turn out positive will be ENPH and RUN, whereas the other stocks are all negative
+In the analysis for All Stocks 2018 we can see that the only 2 stocks that turn out positive will be ENPH and RUN, whereas the other stocks are all negative
 (![image](https://user-images.githubusercontent.com/102333975/162550874-117261f1-012a-4d94-9283-99b7c765018e.png)
 
 ### Advantages and Disadvantages of refactoring code in general
